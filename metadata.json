@@ -1,0 +1,7 @@
+{
+  "name": "LocoInspect Pro",
+  "description": "A professional locomotive inspection and reporting mobile web application for railway maintenance crews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
